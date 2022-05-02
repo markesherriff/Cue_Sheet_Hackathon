@@ -1,3 +1,4 @@
+<img src="devPost.png" width="20%" style="object-fit:contain;">
 # The 'Awesome Team' submission for Cue Sheet Palooza Hackathon
 ### Situation
 A Cue Sheet is the way that screening composers get paid their respective royalties. These Cue Sheets are tedious and require the paying party to be very meticulious. Imagine making your customers go through loads of work just to pay you? And if they make a mistake then you might not get paid! 
