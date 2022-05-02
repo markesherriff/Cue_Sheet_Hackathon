@@ -14,3 +14,4 @@ We worked as fast as we could and came together for more brainstorming when prob
 Created a working prototype within 15 hours that succesfully merged a music file metadata with a screening metadata and filled out a cue sheet that is ready to be sent to a composer. At the end of the event, we pitched our product to a row of judges and an audience. They loved our digital solution and awarded us 3rd Place!
 
 ### Demo Video
+[<img alt="youtube link to watch demo" width="75%" src="fullFits1Thumbnail.png" />](https://www.youtube.com/watch?v=wZZFzlKAtBA)
